@@ -1,62 +1,73 @@
-# Dynamic Pricing Table - User Instructions
+# Dynamic Pricing Table
 
-Thank you for installing the Dynamic Pricing Table plugin! Follow these instructions to get started:
+![WordPress version](https://img.shields.io/badge/wordpress-5.0%2B-blue)
+![PHP version](https://img.shields.io/badge/php-7.2%2B-purple)
+![License](https://img.shields.io/badge/license-GPL--2.0%2B-green)
 
-## 1. Accessing the Plugin
+A powerful and flexible WordPress plugin for creating beautiful, customizable pricing tables.
 
-After activation, you'll find a new menu item called "Pricing Tables" in your WordPress admin panel. Click on it to start creating your pricing tables.
 
-## 2. Creating Your First Pricing Table
 
-1. Click on "Add Pricing Table" or select a template from the dropdown and click "Create New Table".
-2. Give your table a title by entering it in the "Table Title" field.
-3. Add pricing tiers by clicking the "Add Pricing Tier" button.
-4. For each tier, enter:
-   - Tier Name
-   - Price
-   - Features (one per line)
-   - Button Text
+## 🚀 Features
 
-## 3. Customizing Your Table
+- 🖱️ Intuitive drag-and-drop interface
+- 🎨 Multiple pre-designed templates
+- 📱 Fully responsive design
+- 🌈 Customizable colors, fonts, and styles
+- ↕️ Vertical and horizontal layout options
+- 🔗 Shortcode integration
+- ♾️ Unlimited pricing tiers and features
+- 🧩 Compatible with popular page builders
 
-Use the Styling Options section to customize your table:
+## 🎯 Perfect for
 
-- Background Color: Sets the overall background of the table
-- Text Color: Sets the main text color
-- Border Radius: Adjusts the roundness of corners
-- Tier Background Color: Sets the background for each pricing tier
-- Tier Text Color: Sets the text color for pricing tiers
-- Button Background Color: Sets the color for action buttons
-- Button Text Color: Sets the text color for buttons
-- Display Style: Choose between "Column" (side-by-side) or "Vertical" (stacked) layout
+- SaaS companies
+- Membership sites
+- Service-based businesses
+- Product comparisons
+- Any business looking to display pricing options clearly and attractively
 
-## 4. Saving Your Table
+## 📖 Quick Start Guide
 
-After making your changes, click the "Save All Tables" button at the bottom of the page.
+### 1. Installation
 
-## 5. Displaying Your Pricing Table
+1. Download the plugin ZIP file.
+2. Go to `Plugins > Add New > Upload Plugin` in your WordPress admin.
+3. Upload the ZIP file and activate the plugin.
 
-To display your pricing table on a page or post:
+### 2. Creating Your First Table
 
-1. Copy the shortcode provided in the "Shortcode" field of your pricing table.
-2. Paste this shortcode into any page or post where you want the table to appear.
+1. Go to `Pricing Tables` in your WordPress admin menu.
+2. Click "Add Pricing Table" or choose a template.
+3. Customize your table using the intuitive interface.
+4. Save your changes.
 
-Example: `[dynamic_pricing_table id="0"]`
+### 3. Displaying Your Table
 
-## 6. Managing Your Tables
+Use the shortcode provided in the admin interface to display your table:
 
-- To edit a table, simply make changes and click "Save All Tables".
-- To delete a table, click the trash icon in the table header.
-- To collapse/expand a table in the admin view, click the arrow icon in the table header.
+```
+[dynamic_pricing_table id="0"]
+```
 
-## 7. Using Templates
+Replace "0" with the ID of your specific table.
 
-To use a pre-designed template:
+## 📚 Documentation
 
-1. Select a template from the dropdown at the top of the page.
-2. Click "Create New Table".
-3. Customize the new table as needed.
+For detailed instructions and advanced usage, please refer to our [full documentation](https://dynamic-pricing-table.netlify.app/).
 
-Remember to save your changes after any modifications!
+## 🎬 Demo
 
-If you need further assistance, please refer to the full documentation or contact our support team.
+See the Dynamic Pricing Table in action: [View Demo](https://dynamic-pricing-table.netlify.app/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/RaheesAhmed/dynamic-pricing-table/issues).
+
+## 📄 License
+
+This project is [GPL-2.0+](https://www.gnu.org/licenses/gpl-2.0.html) licensed.
+
+## 💖 Support
+
+If you find this plugin helpful, please consider giving it a star on GitHub and leaving a review on WordPress.org!
